@@ -13,3 +13,8 @@ Allows admins to spec both teams with `mp_forcecamera 1`.
 
 ## Requirments
 - [SwiftlyS2](https://github.com/swiftly-solution/swiftlys2)
+
+## Installation
+1. Install [SwiftlyS2](https://github.com/swiftly-solution/swiftlys2) on your server
+2. [Download the latest release](https://github.com/ZusDev/AdminAllSpec/releases/)
+3. Extract to your server's `swiftlys2/plugins/` directory
